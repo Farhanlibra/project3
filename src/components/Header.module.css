@@ -15,7 +15,7 @@
 
 .imageholder {
     
-    background-image: url('hero.jpg');
+    background-image: url('../../public/hero.jpg');
     height: 800px;
     position: relative;
     text-align: center;
