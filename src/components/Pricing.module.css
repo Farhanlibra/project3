@@ -1,0 +1,31 @@
+.container{
+    
+    width: 100%;
+    margin-top: 30px;
+    background-color: white;
+    
+    
+}
+.containerbox{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    height: 250px;
+    width: 250px;
+    align-content: space-between;
+}
+.box{
+    height: 250px;
+    height: 250px;
+    background-color: red;
+}
+
+#box1{
+    background-color: blanchedalmond;
+}
+#box2{
+    background-color: blue;
+}
+#box3{
+    background-color: black;
+}
