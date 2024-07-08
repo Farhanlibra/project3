@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Header = () => {
   return (
     <>
-    <div>
+    <div  className={style.imageholder} >
       
       
         <nav className="navbar navbar-expand-lg " >
