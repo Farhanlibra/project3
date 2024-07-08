@@ -141,8 +141,8 @@ align-content: center;
     background-color:  rgb(73, 73, 202);
 }
 
-@media screen and (max-width: 800px) {
-    .body, .card, .cardholder, .contact, .container-fluid, .containerc, .containercard, .containerForm, .copyri, .feature, .fimage1, .footer, .formcont, .heading, .left1, .Pcardholder, .contact, .reviewcontainer, .right, .right1, .rimage, .social {
+@media screen and (max-width: 600px) {
+   header, footer {
       width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
     }
   }
