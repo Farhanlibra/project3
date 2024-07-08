@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     background-color: white;
     
 }
@@ -9,9 +9,9 @@
 }
 
 .container{
-    margin: 0;
-    padding: 0;
-    margin-bottom: 0;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
     height: 700px;
     
 }
