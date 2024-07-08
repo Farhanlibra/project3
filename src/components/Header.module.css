@@ -4,6 +4,9 @@
     background-color: white;
     
 }
+.navbar.navbar-expand-lg{
+  width: 100%;
+}
 
 .container{
     margin: 0;
@@ -37,8 +40,8 @@
     margin-right: 5px;
   }
 
-  @media all and (min-width:375px) {
-    .container .but .image .imageholder{
-      color: beige;
+  @media screen and (max-width:600px) {
+    nav {
+      width: 100%;
     }
   }
