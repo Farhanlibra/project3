@@ -153,4 +153,14 @@ align-content: center;
        
     
     }
+    .feature{
+        display: flexbox;
+        flex-wrap:wrap;
+       
+    }
+    
+    .fimage1 {
+        width: 300px;
+        height: auto;
+    }
   }
