@@ -33,7 +33,7 @@ const Header = () => {
       </ul>
       
     </div>
-    <p style={{marginTop:'630px', color:'white', textAlign:'center', marginRight:'400px', fontSize:"50px", background:'none'}}>uicookies.com Creates High Quality Bootstrap Template For Free</p>
+    <p style={{marginTop:'630px', color:'black', textAlign:'center', marginRight:'400px', fontSize:"50px", background:'none'}}>uicookies.com Creates High Quality Bootstrap Template For Free</p>
   </div>
   
 
