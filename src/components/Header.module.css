@@ -26,6 +26,11 @@
     width: 100%;
    
   }
+  .contimage{
+    position: relative;
+    top: 200px;
+    left: 200px;
+  }
 
   a, li {
     background-color: gray;
