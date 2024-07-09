@@ -29,13 +29,14 @@
   .contimage{
     position: absolute;
     top: 300px;
-    left: 500px;
+    left: 400px;
     background: none;
   }
 
   .contimage p{
     background: none;
     font-size: 30px;
+    color: white;
   }
   .contimage button{
     margin-right: 5px;
