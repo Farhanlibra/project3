@@ -33,14 +33,18 @@ const Header = () => {
       </ul>
       
     </div>
-    <p style={{marginTop:'630px', color:'black', textAlign:'center', marginRight:'400px', fontSize:"50px", background:'none'}}>uicookies.com Creates High Quality Bootstrap Template For Free</p>
+    
   </div>
   
 
 </nav>
+<div>
+<p>uicookies.com Creates High Quality Bootstrap Template For Free</p>
+   <button   className='btn btn-primary , '>Get Them Now</button>
+<button  className='btn btn-primary ' >See Feature</button></div>
 
-  <button  style={{marginTop:'430px', marginRight:'10px', width:'210px', height:'60px', fontWeight:'bolder', fontSize:'20px'}} className='btn btn-primary , '>Get Them Now</button>
-  <button style={{marginTop:'430px', width:'210px', height:'60px', fontWeight:'bolder', fontSize:'20px'}} className='btn btn-primary ' >See Feature</button></div>
+</div>
+ 
 
   
 
