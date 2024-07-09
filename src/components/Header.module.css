@@ -29,7 +29,7 @@
   .contimage{
     position: absolute;
     top: 300px;
-    left: 400px;
+    left: 300px;
     background: none;
   }
 
@@ -37,6 +37,7 @@
     background: none;
     font-size: 30px;
     color: white;
+    width: 500px;
   }
   .contimage button{
     margin-right: 5px;
