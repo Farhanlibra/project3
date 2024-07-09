@@ -163,4 +163,24 @@ align-content: center;
         width: 300px;
         height: auto;
     }
+    .right{
+        
+        background-color: cyan;
+    }
+    .right1{
+        margin-right: 0px;
+    }
+    .left1{
+        margin-right: 0px;
+        margin-left: 0px;
+        background-color: cyan;
+       
+    }
+    .Pcardholder{
+        display: flex;
+        flex-wrap: wrap;       
+        
+    }
+    
+    
   }
