@@ -64,14 +64,14 @@ align-content: center;
 
 
 .Pcardholder{
-    margin-bottom: 50px;
+    padding-bottom: 50px;
 }
         
 .rimage{
     height: 80px;
     width: 80px;
     border-radius: 20px;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 .reviewcontainer{
     background-color:pink;
