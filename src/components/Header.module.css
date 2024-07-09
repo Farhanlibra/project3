@@ -27,9 +27,10 @@
    
   }
   .contimage{
-    position: relative;
-    top: 200px;
-    left: 200px;
+    position: absolute;
+    top: 600px;
+    left: 600px;
+    background: none;
   }
 
   a, li {
