@@ -143,8 +143,14 @@ align-content: center;
     background-color:  rgb(73, 73, 202);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
    header, footer {
       width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+    .cardholder{
+        display: flex;
+        flex-wrap: wrap;
+       
+    
     }
   }
