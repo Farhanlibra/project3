@@ -37,10 +37,11 @@
     width: 500px;
   }
   .buttonp{
+    display: inline;
     position: absolute;
     top: 450px;
     left: 400px;
-    display: inline;
+   
     align-content:space-between;
     background: none;
     
