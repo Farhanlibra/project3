@@ -60,7 +60,7 @@
 
   @media screen and (max-width:280px) {
     .imageholder {
-      width: 100%;
+      width: 100pc;
       height: 80%;
     }
     .image {
