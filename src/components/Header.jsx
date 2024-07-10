@@ -41,7 +41,7 @@ const Header = () => {
 <div className={style.contimage}>
 <p>uicookies.com Creates High Quality Bootstrap Template For Free</p>
 </div>
-<div className={style.btnbtnp}>
+<div className={style.buttonp}>
 <button   className='btn btn-primary , '>Get Them Now</button>
 <button  className='btn btn-primary ' >See Feature</button></div>
 
