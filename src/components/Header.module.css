@@ -60,10 +60,10 @@
     margin-right: 5px;
   }
 
-  @media screen and (max-width:380px) {
+  @media screen and (max-width:580px) {
     .imageholder {
       width: 100%;
-      height: 600px;
+      height: 60%;
     }
       
    
