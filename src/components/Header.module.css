@@ -37,7 +37,8 @@
     width: 500px;
   }
   .buttonp{
-    display: inline;
+    display: flex;
+    flex-wrap: wrap;
     position: absolute;
     top: 450px;
     left: 400px;
