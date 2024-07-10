@@ -37,8 +37,11 @@
     width: 500px;
   }
   .buttonp{
+    position: absolute;
+    top: 350px;
+    left: 400px;
     display: inline;
-    margin-top: 300px;
+    align-content:space-between;
     background: none;
     
     width: 180px;
