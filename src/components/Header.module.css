@@ -4,6 +4,9 @@
     background-color: white;
     
 }
+.wrapper{
+  width: 100%;
+}
 .navbar.navbar-expand-lg{
   background-color: none;
 }
