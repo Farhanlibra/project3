@@ -73,61 +73,18 @@
     
    
   }
-      
-   
-.container{
-  margin: 0px;
-  padding: 0px;
-  margin-bottom: 0px;
-  height: auto;
-  width: 100%;
-  
-}
-
-.imageholder {
-  
-  background-image: url('../../public/hero.jpg');
- 
-  position: relative;
-  text-align: center;
-  width: 100%;
-  height: auto;
- 
-}
-.contimage{
-  position: absolute;
-  top: 300px;
-  left: 300px;
-  background: none;
-}
-
-.contimage p{
-  background: none;
-  font-size: 20px;
-  color: white;
-  width: 100%;
-}
-.contimage button{
-  margin-right: 5px;
-  width: 180px;
-  height: 50px;
-  align-self: center;
-}
-
-a, li {
-  background-color: gray;
-  color: white;
-}
-
-.image {
-  height:600px;
-  width: 100%;
-  margin-top: 0%;
-}
-
-.but{
-  margin-right: 5px;
-}
-
+  .contimage p{
+    position: absolute;
     
+    font-size: 20px;
+    color: white;
+    width: 200px;
   }
+  .contimage button{
+    margin-right: 5px;
+    width: 180px;
+    height: 50px;
+  }
+
+      
+}
