@@ -40,8 +40,12 @@ const Header = () => {
 </nav>
 <div className={style.contimage}>
 <p>uicookies.com Creates High Quality Bootstrap Template For Free</p>
-   <button   className='btn btn-primary , '>Get Them Now</button>
+</div>
+<div className={style.btn.btn-primary}>
+<button   className='btn btn-primary , '>Get Them Now</button>
 <button  className='btn btn-primary ' >See Feature</button></div>
+
+   
 
 </div>
  
