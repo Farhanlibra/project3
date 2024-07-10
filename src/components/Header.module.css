@@ -25,7 +25,7 @@
 .imageholder {
     
     background-image: url('../../public/hero.jpg' );
-    width: 100%;
+    width: 100pc;
     height: 800px;
    
     text-align: center;
