@@ -8,7 +8,7 @@ const Header = () => {
     <div className={style.wrapper}>
     <div  className={style.imageholder} >
       
-      
+      <img src='hero.jpg'></img>
         <nav className="navbar navbar-expand-lg " >
   <div className="container-fluid" style={{height:"60px"}}>
     
