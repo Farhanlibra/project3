@@ -56,7 +56,7 @@
     color: white;
   }
   
-  @media screen and (max-width:560px) {
+  @media screen and (width < 560px) {
     .imageholder {
 
       width: 100%;
@@ -64,8 +64,8 @@
     }
     .contimage p{
       position: absolute;
-      top: 100px;
-      left: 100px;
+      top: 250px;
+      left: 200px;
   
       
       
