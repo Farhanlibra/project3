@@ -81,7 +81,7 @@ const Features = () => {
           </ul>
         </div>
       </div>
-      <div className="feature1">
+      <div className="feature">
         <div className="left1">
           <h2
             style={{

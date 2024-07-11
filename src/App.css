@@ -35,9 +35,7 @@ body{
     padding: 10px;
     background-color: cyan;
 }
-.feature1{
-    background-color: rgb(163, 45, 218);
-}
+
 
 .fimage1 {
     width: 500px;
@@ -59,7 +57,7 @@ align-content: center;
     width: 40%;
     margin-right: 0px;
     margin-left: 0px;
-    background-color: cyan;
+    background-color: rgb(103, 9, 180);
    
 }
 .Pcardholder{
