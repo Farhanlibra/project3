@@ -73,8 +73,7 @@
     .imageholder {
 
       background-size: cover;
-      background-position-x: center;
-    height: fit-content;
+      width: 100px;
     }
     .contimage p{
       position: absolute;
