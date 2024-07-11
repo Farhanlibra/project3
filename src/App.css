@@ -238,6 +238,7 @@ background-color: yellow;
        width: 100%;
     }
     .footer {
+        padding: 100px;
         width: 50%;
         display: block;
         margin-top: 600px;
@@ -245,12 +246,12 @@ background-color: yellow;
         
     }
     .social{
-       
+        padding: 100px;
         width: 50%;
     }
     
     .copyri{
-       
+        padding: 100px;
        width: 50%;
     }
     
