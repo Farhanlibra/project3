@@ -216,8 +216,10 @@ background-color: yellow;
     
     .containerc{
         display: block;
+        margin-top: 50px;
+        margin-bottom: 50px;
        
-        width: 100%;
+        width: 50%;
     }
     .containerc span,  h3 {
         background-color: cyan;
