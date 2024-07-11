@@ -73,7 +73,7 @@
     .imageholder {
 
       background-size: cover;
-      width: 100px;
+      width: 50%;
     }
     .contimage p{
       position: absolute;
