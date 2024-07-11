@@ -55,7 +55,7 @@
     position: absolute;
     top: 520px;
     left: 450px;
-    margin-left: 10px;
+    margin-left: 3px;
    
     
     background: none;
@@ -84,7 +84,7 @@
       
       font-size: 30px;
       color: white;
-      width: 300px;
+      width: 400px;
     }
   
     .wrapper{
