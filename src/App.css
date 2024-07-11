@@ -190,9 +190,9 @@ background-color: yellow;
        
     }
     .reviewcontainer{
-        display: flex;
-        flex-wrap: wrap;
-        background-color:pink;
+        display: block;
+       
+       
         width: 100%;
         height: auto;
     }
