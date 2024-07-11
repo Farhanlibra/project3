@@ -72,8 +72,9 @@
   @media screen and (width < 560px) {
     .imageholder {
 
-      width: 20%;
-      height: 600px;
+      background-size: cover;
+      background-position-x: center;
+    height: fit-content;
     }
     .contimage p{
       position: absolute;
