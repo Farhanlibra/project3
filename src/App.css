@@ -202,8 +202,8 @@ background-color: yellow;
     
     
     .contact{
-        display: flex;
-       flex-wrap: wrap;
+        display: block;
+       
         
         
         
@@ -211,12 +211,12 @@ background-color: yellow;
     .containerForm{
         
         width: 100%;
-        display: flex;
+        display: block;
     }
     
     .containerc{
-        display: flex;
-        flex-wrap: wrap;
+        display: block;
+       
         width: 100%;
     }
     .containerc span,  h3 {
@@ -236,8 +236,8 @@ background-color: yellow;
     }
     .footer {
         width: 100%;
-        display: flex;
-        flex-wrap: wrap;
+        display: block;
+      
         
     }
     .social{
