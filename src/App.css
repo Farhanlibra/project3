@@ -53,6 +53,8 @@ align-content: center;
 }
 .left1{
     display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
     margin-right: 0px;
     margin-left: 0px;
     background-color: cyan;
