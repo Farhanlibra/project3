@@ -30,7 +30,7 @@
     background-color: black;
 }
 
-@media screen and (width < 560) {
+@media screen and (width < 560px) {
     .container h1{
         font-size: 8px;
     }
