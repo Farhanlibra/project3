@@ -52,6 +52,7 @@ align-content: center;
     margin-right: 0px;
 }
 .left1{
+    display: inline-flex;
     margin-right: 0px;
     margin-left: 0px;
     background-color: cyan;
