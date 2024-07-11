@@ -77,14 +77,14 @@
     }
     .contimage p{
       position: absolute;
-      top: 400px;
-      left: 300px;
+      top: 300px;
+      left: 400px;
   
       
       
-      font-size: 20px;
+      font-size: 30px;
       color: white;
-      width: 200px;
+      width: 300px;
     }
   
     .wrapper{
