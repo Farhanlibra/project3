@@ -29,3 +29,9 @@
 #box3{
     background-color: black;
 }
+
+@media screen and (width < 560) {
+    .container h1{
+        font-size: 25px;
+    }
+}
