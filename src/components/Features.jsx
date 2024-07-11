@@ -32,7 +32,7 @@ A small river named Duden flows by their place and supplies it with the necessar
 <li style={{backgroundColor:'cyan'}}>A small river named Duden flows</li>
 <li style={{backgroundColor:'cyan'}}> Roasted parts of sentences fly into your mouth</li></ul>
         </div>
-        <div className='right1' style={{marginLeft:'210px'}}>
+        <div className='right1' style={{marginLeft:'160px'}}>
         <img className='fimage1' src='f2.jpg' alt=''/>
         
         </div>
