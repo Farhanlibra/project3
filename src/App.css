@@ -35,6 +35,9 @@ body{
     padding: 10px;
     background-color: cyan;
 }
+.feature1{
+    background-color: greenyellow;
+}
 
 .fimage1 {
     width: 500px;
