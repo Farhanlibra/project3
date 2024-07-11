@@ -37,8 +37,7 @@
     width: 500px;
   }
   .buttonp{
-    display: flex;
-    flex-wrap: wrap;
+    
     position: absolute;
     top: 450px;
     left: 400px;
@@ -49,7 +48,18 @@
     width: 180px;
     height: 50px;
   }
- 
+  .butt2{
+    
+    position: absolute;
+    top: 450px;
+    left: 450px;
+   
+    
+    background: none;
+    
+    width: 180px;
+    height: 50px;
+  }
 
   a, li {
     background-color: gray;
@@ -80,7 +90,7 @@
       
     }
     #navbarSupportedContent{
-      width: 100%;
+      width: 50%;
     }
   
         

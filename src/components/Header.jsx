@@ -43,8 +43,9 @@ const Header = () => {
 </div>
 <div className={style.buttonp}>
   <button   className='btn btn-primary '>Get Them Now</button>
-  <button  className='btn btn-primary ' >See Feature</button>
+  
 </div>
+<div className={style.butt2}><button  className='btn btn-primary ' >See Feature</button></div>
 
    
 
