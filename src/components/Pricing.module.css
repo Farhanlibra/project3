@@ -33,5 +33,6 @@
 @media screen and (width < 560px) {
     .container h1{
         font-size: 8px;
+        background-color: rgb(42, 180, 7);
     }
 }
