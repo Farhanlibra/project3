@@ -25,7 +25,7 @@ A small river named Duden flows by their place and supplies it with the necessar
     <div className='feature'>
         
         <div className='left1'>
-        <h2 style={{color: 'blue', marginBottom:'40px', lineHeight:'60px', fontSize:'40px', backgroundColor:'cyan'}}>How Frame is different</h2><p style={{width:"400px", fontSize:"18px", marginBottom:'20px', lineHeight:'30px',backgroundColor:'cyan'}}>
+        <h2 style={{color: 'blue', marginBottom:'40px', lineHeight:'60px', fontSize:'40px', backgroundColor:'cyan',float:'left'}}>How Frame is different</h2><p style={{width:"400px", fontSize:"18px", marginBottom:'20px', lineHeight:'30px',backgroundColor:'cyan'}}>
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
 <ul style={{marginTop:'30px', fontSize:'20px', lineHeight:'40px', backgroundColor:'cyan'}}>
 <li style={{backgroundColor:'cyan'}}>Pointing has no control</li>
