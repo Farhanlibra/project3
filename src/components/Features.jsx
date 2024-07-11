@@ -2,8 +2,8 @@ import React from 'react'
 
 const Features = () => {
   return (
-    <>
-    <div style={{backgroundColor:"cyan"}}>
+    <div >
+    <div className='fh' style={{backgroundColor:"cyan"}}>
     <h1 style={{textAlign:'center', margin:'40px', backgroundColor:'cyan'}}>Features</h1>
     <hr style={{border:'solid, 3px, blue', width:'100px', marginTop:'30px', marginLeft:'700px'}}></hr>
     <p style={{textAlign:'center', width:'680px', marginLeft:'380px', marginTop:'80px', fontSize:'20px', backgroundColor:'cyan'}}>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
@@ -51,7 +51,7 @@ A small river named Duden flows by their place and supplies it with the necessar
 <li style={{backgroundColor:'cyan'}}>Roasted parts of sentences fly into your mouth</li></ul>
         </div>
     </div>
-    </>
+    </div>
   )
 }
 
