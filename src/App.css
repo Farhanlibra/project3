@@ -36,7 +36,21 @@ body{
     height: 600px;
     background-color: blue;
 }
-
+#box1{
+background-color: yellow;
+}
+#box2{
+    background-color: rgb(74, 18, 148);
+    }
+    #box3{
+        background-color: rgb(15, 15, 3);
+        }
+        #box4{
+            background-color: rgb(221, 221, 172);
+            }
+            #box5{
+                background-color: rgb(183, 165, 207);
+                }
 .Pcardholder{
     display: flex;
     margin: 60px;
