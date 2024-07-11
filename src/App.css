@@ -26,40 +26,17 @@ body{
     border-radius: 10px;
     border: none;
 }
-.fh{
-    width: 100%;
+.container-fluid{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
-.feature{
-    display: inline-flex;
-    flex-wrap:wrap;
-    padding: 10px;
-    background-color: cyan;
-}
-
-
-.fimage1 {
-    width: 500px;
+.box{
+    width: 600px;
     height: 600px;
+    background-color: blue;
 }
-.heading{
-align-content: center;
-    
-}
-.right{
-    margin-left: 60px;
-    background-color: cyan;
-}
-.right1{
-    margin-right: 0px;
-    width: 70%;
-}
-.left1{
-    width: 40%;
-    margin-right: 0px;
-    margin-left: 0px;
-    background-color: rgb(103, 9, 180);
-   
-}
+
 .Pcardholder{
     display: flex;
     margin: 60px;
