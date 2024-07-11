@@ -72,7 +72,7 @@
   @media screen and (width < 560px) {
     .imageholder {
 
-      width: 100%;
+      width: 20%;
       height: 600px;
     }
     .contimage p{
