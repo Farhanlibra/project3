@@ -10,7 +10,8 @@ import Reviews from '../components/Reviews'
 import Try from '../components/Try'
 import Join from '../components/Join'
 import Contact from '../components/Contact'
-import Aldhahery from '../pages/Aldhahery'
+import Aldhahery from '../components/Aldhahery'
+
 
 
 
