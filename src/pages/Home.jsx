@@ -38,7 +38,7 @@ const Home = () => {
   return (
     <div>
        
-       <Aldhahery/>
+       
         <div className='cardholder'>
           {data.map(d=> <Card d={d}/>)}
         </div>
@@ -48,6 +48,7 @@ const Home = () => {
         <div ><Reviews/></div>
         <div><Try/></div>
         <div><Join/></div>
+        <Aldhahery/>
         <Contact/>
         
         
