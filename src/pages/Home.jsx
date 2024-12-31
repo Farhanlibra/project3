@@ -10,6 +10,9 @@ import Reviews from '../components/Reviews'
 import Try from '../components/Try'
 import Join from '../components/Join'
 import Contact from '../components/Contact'
+import Aldhahery from './Aldhahery'
+
+
 
 const Home = () => {
  
@@ -34,7 +37,7 @@ const Home = () => {
   return (
     <div>
        
-        
+       <Aldhahery/>
         <div className='cardholder'>
           {data.map(d=> <Card d={d}/>)}
         </div>
@@ -45,6 +48,7 @@ const Home = () => {
         <div><Try/></div>
         <div><Join/></div>
         <Contact/>
+        
         
         
         
